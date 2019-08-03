@@ -10,10 +10,10 @@ Finish Date(v1): March 30, 2019
     # of unique words
 # __main__ (???)
 # IDEAS:
-    # relate words (by their synonims?)
+    # relate words (by their synonyms?)
     # plot the information (matplotlib?)
     # implement on a website   
-    # keep a list of articles visited, if already visited, go to another one (shoul be extremely rare)
+    # keep a list of articles visited, if already visited, go to another one (should be extremely rare)
 # ---------------------------
 
 import bs4 as bs
